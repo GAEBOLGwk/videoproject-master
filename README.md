@@ -1,3 +1,4 @@
+转载b站大佬的，稍有改动，大佬b站号https://www.bilibili.com/video/BV1Xb411i7kc
 
 ### 项目名称
 
@@ -50,15 +51,7 @@ python/django/nginx/mysql/semantic-css/jquery/html
 ### 开发教程
 [https://mypython.me](https://mypython.me)
 
-### 问题反馈
-
-Email: lovezww2011@gmail.com
-
 
 ### 数据库文件
 
 [点击下载](https://net936.oss-cn-hangzhou.aliyuncs.com/net936_1/video_2019-02-22.sql)
-
-### 答谢作者
-
-答谢方式：[点击demo右侧广告](https://v.mypython.me/video/detail/26/)
